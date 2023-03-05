@@ -1,3 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
 .first-ico{
     color: white;
+}
+
+.bag-sce{
+    background-image: url(../img/2.jpeg);
+}
+
+.h4-cse2{
+    color: white;
+    margin-top: 186px;
+    font-family: cursive;
+    margin-bottom: 81px;
+
+}
+
+.h11-cse2{
+    color: white;
+    font-weight: 700;
+    font-family: monospace;
+    font-size: 60px;
+    
+}
+
+.h12-cse2{
+    color: white;
+    font-weight: 500;
+    font-family: revert;
+    font-size: 55px;
+    
+}
+
+.p-cse2{
+    color: white;
+    
+}
+
+.ic-cse2{
+    color: white;
+    font-size: 40px;
+    transition: all .7s;
+    cursor: pointer;
+}
+
+.a-cse2{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    transition: all .7s;
+}
+
+.a-cse2:hover{
+    color: rgb(230, 28, 28);
+    
+}
+
+.ic-cse2:hover{
+    transform: scale(1.2);
 }
