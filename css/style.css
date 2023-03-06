@@ -62,3 +62,80 @@ body{
 .ic-cse2:hover{
     transform: scale(1.2);
 }
+
+.sc3-im1{
+    position: absolute;
+    z-index: -1;
+    margin-left: -130px;
+    margin-top: 227px;
+}
+.sc3-im2{
+
+    height: 512px;
+    margin-left: 66px;
+
+}
+
+
+.sc3-im3{
+    position: absolute;
+    margin-top: 80px;
+}
+.sc3-im4{
+
+    position: absolute;
+    display: block;
+    margin-top: 314px;
+}
+
+.sc3-p1{
+    margin-top: 133px;
+    position: absolute;
+    margin-left: 54px;
+    font-family: fantasy;
+}
+
+
+.sc3-p2{
+    position: absolute;
+    margin-top: 222px;
+    margin-left: 10px;
+    font-family: cursive;
+}
+
+
+.sc3-p3{
+    position: absolute;
+    margin-top: 368px;
+    margin-left: 56px;
+    font-family: fantasy;
+}
+
+
+.sc3-p4{
+    margin-top: 452px;
+    position: absolute;
+    margin-left: 10px;
+    font-family: cursive;
+}
+
+.sc3-lin{
+    background-color: #E7E7E7;
+    height: 500px;
+    width: 3px;
+    margin-left: -117px;
+}
+
+.sc3-h4{
+    font-weight: 700;
+    color: #2D2C68;
+}
+
+.sc3-p{
+    font-size: 12px;
+}
+
+.sc3-ic{
+    font-size: 50px;
+    color: #F68066;
+}
