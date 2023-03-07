@@ -1,6 +1,6 @@
 # Corporate-Business-landing-page
 
-## [site demo](https://khalilhasan23.github.io/Appie-Landing-page/)
+## [site demo](https://khalilhasan23.github.io/Corporate-Business-landing-page/)
 
 
 ## project screenshot
