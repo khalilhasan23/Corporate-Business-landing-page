@@ -139,3 +139,46 @@ body{
     font-size: 50px;
     color: #F68066;
 }
+
+.bann-p{
+    color: #F68066;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bann-h2{
+    color: #2D2C68;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bann{
+    background-image: url(../img/banner-1.png);
+    background-size: contain;
+}
+
+.baann-icoc{
+    font-size: 62px;
+    margin-top: 26px;
+    margin-bottom: 22px;
+    color: #F68066;
+}
+
+.baann-h4{
+    color: #2D2C68;
+}
+
+.baann-pp{
+    color: RGB(102, 102, 102);
+    font-size:15px;
+}
+
+.baaannn{
+    transition: all .7s;
+}
+
+.baaannn:hover{
+    margin-top: -10px;
+}
