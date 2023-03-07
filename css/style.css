@@ -224,3 +224,46 @@ body{
     color: #F68066;
     margin-top: 4px;
 }
+
+.leat-cov{
+    background-size: cover;
+    background-color: #0E2258;
+    background-image: url(../img/42.png);
+}
+
+.least-h5{
+    color: white;
+    font-family: cursive;
+}
+
+.least-p{
+    color: white;
+    
+}
+
+#least-ico{
+    color: white;
+    font-size: 26px;
+}
+
+.least-pic{
+    max-height: 50px !important;
+    margin-top: -12px;
+}
+
+.inppp{
+    padding: 8px;
+    padding-left: 33px;
+    background: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.btnnn{
+    border: none;
+    border-radius: 7px;
+    padding: 8px;
+}
+#btn-ico{
+    color: #F68066;
+}
