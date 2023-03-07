@@ -182,3 +182,45 @@ body{
 .baaannn:hover{
     margin-top: -10px;
 }
+
+.vorlet{
+    background-color: #ECF6FA;
+}
+
+.vor-img{
+    height: 378px;
+    border-radius: 31px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vor-h5{
+    font-size: 20px;
+    color: #2D2C68;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.vor-p{
+    color: RGB(102, 102, 102);
+    font-size:15px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.vor-ico{
+    position: absolute;
+    margin-top: -274px;
+    margin-left: 340px;
+    background-color: #FFFFFF;
+    padding: 11px;
+    border-radius: 13px;
+}
+
+#icon23{
+    display: block;
+    font-size: 30px;
+    color: #F68066;
+    margin-top: 4px;
+}
